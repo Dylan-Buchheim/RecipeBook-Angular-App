@@ -17,7 +17,8 @@ export class RecipeService {
       "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-chicken-tikka-masala-jpg-1526059261.jpg",
       [
         new Ingredient('Meat', 1),
-        new Ingredient('Cream', 4)
+        new Ingredient('Cream', 4),
+        new Ingredient('Spices', 13)
       ]
     ),
     new Recipe(
